@@ -1,0 +1,17 @@
+{
+  "encoded": "MFMCAQEwBQYDK2VwBCIEIKjgH9g523CiCO3N9XgV/vts6e66qR0apTSq5DrfDxlxiQf5NkwxIV035/bzflZM1YhmhMfTFQwxMAa2TnX6wHmhIwMhAI4H+Y+e1unSl1xisJ6w0F85PrcBblrRp5p+ZSizUEhQ",
+  "encoding": {
+    "content": [
+      "pkcs8",
+      "sr25519"
+    ],
+    "type": [
+      "none"
+    ],
+    "version": "3"
+  },
+  "address": "5FGw2T66K9otMMGBgRuotu2JyXMMdpu9KsAz6JzZ1SABreMN",
+  "meta": {
+    "name": "new keypair"
+  }
+}
